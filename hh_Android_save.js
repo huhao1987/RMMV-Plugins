@@ -9,7 +9,9 @@
  *
  * @help
  *
- * The plugin fix RMMV save cannot be saved in local
+ * The plugin add RMMV saves in internal stroage, but you have to my deployment project to connect the plugin
+ * Deployment project:https://github.com/huhao1987/RMMV-android-deployment
+ 
  * 本插件添加了对Android 本地存档的支持,但必须与我的部署方案配合才能使用
  *部署方案:https://github.com/huhao1987/RMMV-android-deployment
  */
